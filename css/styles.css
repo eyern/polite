@@ -7,13 +7,13 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .main-color{
-    color: #FF5829 !important;
+    color: #56a0cb !important;
 }
 .main-colorbg{
-    background-color: #FF5829 !important;
+    background-color: #56a0cb !important;
 }
 .link-light:hover{
-    color: #FF5829 !important;
+    color: #56a0cb !important;
     font-weight: bold !important;
 }
 
